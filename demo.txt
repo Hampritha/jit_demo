@@ -1,4 +1,4 @@
 name : demo
 version : 1.0
 status : stable 
-Description : Starting Point of our git journeyn
+Description : Starting Point of our git journey. and it was more hectic 
